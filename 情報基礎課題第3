@@ -1,0 +1,10 @@
+1番
+function add(x,y){
+  return x+y;
+}
+2番
+function (x,y){
+ return x*y;
+}
+
+3番
